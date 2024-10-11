@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| <a href="https://github.com/lastsunday"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lastsunday&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Lastsunday's github stats" /></a> | <a href="https://github.com/lastsunday"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lastsunday&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/lastsunday/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lastsunday&repo=job-hunting&theme=buefy" />
+</a>
+
+<br />
+<br />
+
