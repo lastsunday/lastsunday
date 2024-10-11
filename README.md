@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### Top Repositories
 
 
-<a href="https://github.com/lastsunday/github-readme-stats">
+<a href="https://github.com/lastsunday">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lastsunday&repo=job-hunting&theme=buefy" />
 </a>
 
