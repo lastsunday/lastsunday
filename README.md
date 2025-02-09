@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/lastsunday/job-hunting">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lastsunday&repo=job-hunting&theme=buefy" />
 </a>
-<a href="https://github.com/lastsunday/job-hunting-tampermonkey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lastsunday&repo=job-hunting-tampermonkey&theme=buefy" />
-</a>
 
 <br />
 <br />
